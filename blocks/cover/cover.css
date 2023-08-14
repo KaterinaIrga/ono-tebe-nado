@@ -1,0 +1,6 @@
+.cover {
+  background-size: cover;
+  background-position: center;
+  background-image: url("../../images/cover.jpg"); 
+  margin: 0;
+}

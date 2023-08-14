@@ -1,0 +1,13 @@
+.cover__title {
+  margin: 0;
+  padding: 165px 50px 0;
+  display: grid;
+  grid-template: 115px 115px 115px / repeat(3, 1fr);
+  gap: 5px;
+  align-items: center;
+  opacity: 1;
+  line-height: 115%;
+  font-size: 100px;
+  font-weight: bold;
+  letter-spacing: 2rem;
+}

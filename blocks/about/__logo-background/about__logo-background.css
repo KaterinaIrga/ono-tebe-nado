@@ -1,0 +1,9 @@
+.about__logo-background {
+  background-color: #000;
+  border-radius: 50%;
+  width: 240px;
+  height: 240px;
+  grid-column: 1;
+  grid-row: 1;
+  margin: 0 95px;
+}

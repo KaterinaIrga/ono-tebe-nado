@@ -1,1 +1,132 @@
-/* место для вашего кода */
+@import url("../fonts/fonts.css");
+@import url("../blocks/body/body.css");
+@import url("../blocks/about/about.css");
+@import url("../blocks/about/__card/about__card.css");
+@import url("../blocks/about/__content/about__content.css");
+@import url("../blocks/about/__logo/about__logo.css");
+@import url("../blocks/about/__logo-background/about__logo-background.css");
+@import url("../blocks/about/__paragraph/about__paragraph.css");
+@import url("../blocks/about/__title/about__title.css");
+@import url("../blocks/card/card.css");
+@import url("../blocks/card/__about/card__about.css");
+@import url("../blocks/card/__content/card__content.css");
+@import url("../blocks/card/__image/card__image.css");
+@import url("../blocks/card/__title/card__title.css");
+@import url("../blocks/cover/cover.css");
+@import url("../blocks/cover/__button/cover__button.css");
+@import url("../blocks/cover/__content/cover__content.css");
+@import url("../blocks/cover/__subline/cover__subline.css");
+@import url("../blocks/cover/__title/cover__title.css");
+
+@import url("../blocks/cover/__title/_it/cover__title_it.css");
+@import url("../blocks/cover/__title/_need/cover__title_need.css");
+@import url("../blocks/cover/__title/_to-you/cover__title_to-you.css");
+@import url("../blocks/cover/__title/_last-letter/cover__title_last-letter.css");
+
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__contacts/footer__contacts.css");
+@import url("../blocks/footer/__contacts/_email/footer__contacts_email.css");
+@import url("../blocks/footer/__contacts/_telephone/footer__contacts_telephone.css");
+@import url("../blocks/footer/__contacts/_address/footer__contacts_address.css");
+@import url("../blocks/footer/__menu/footer__menu.css");
+@import url("../blocks/footer/__socials/footer__socials.css");
+@import url("../blocks/footer/__socials-pinterest/footer__socials-pinterest.css");
+@import url("../blocks/footer/__socials-vk/footer__socials-vk.css");
+@import url("../blocks/footer/__socials-yt/footer__socials-yt.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__contacts/header__contacts.css");
+@import url("../blocks/header/__contacts/_email/header__contacts_email.css");
+@import url("../blocks/header/__contacts/_telephone/header__contacts_telephone.css");
+@import url("../blocks/header/__contacts/_address/header__contacts_address.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__menu/header__menu.css");
+@import url("../blocks/header/__menu/_main/header__menu_main.css");
+@import url("../blocks/header/__menu/_lots/header__menu_lots.css");
+@import url("../blocks/header/__menu/_about/header__menu_about.css");
+
+
+
+
+@import url("../blocks/header/__space/header__space.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/lots/lots.css");
+@import url("../blocks/lots/__card/lots__card.css");
+@import url("../blocks/lots/__gallery/lots__gallery.css");
+@import url("../blocks/lots/__gallery-item/lots__gallery-item.css");
+@import url("../blocks/lots/__more/lots__more.css");
+@import url("../blocks/lots/__title/lots__title.css");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

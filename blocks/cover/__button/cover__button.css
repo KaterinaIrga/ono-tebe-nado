@@ -1,0 +1,10 @@
+.cover__button {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  outline: 1px solid #fff;
+  
+  text-align: center;
+  color: #fff;
+  padding: 12px 32px;
+}

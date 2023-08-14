@@ -1,0 +1,8 @@
+.about__logo {
+  width: 148px;
+  grid-column: 1;
+  grid-row: 1;
+  z-index: 5;
+  justify-self: center;
+  padding-top: 62px ;
+}

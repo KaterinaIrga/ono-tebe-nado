@@ -1,0 +1,5 @@
+.header__contacts {
+  grid-area: contacts;
+  display: flex;
+  flex-direction: column;  
+}

@@ -1,0 +1,12 @@
+.cover__subline {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 62px;
+  text-align: center;
+  line-height: 28px;
+  font-size: 22px;
+  font-weight: normal;
+  word-spacing: 1rem;
+}

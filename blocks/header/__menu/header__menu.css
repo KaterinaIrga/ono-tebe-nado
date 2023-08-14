@@ -1,0 +1,7 @@
+.header__menu {
+  grid-area: menu;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  color: #000;
+}
