@@ -6,4 +6,4 @@
 ![Alt-Макет главной страницы](/#2 Оно тебе надо - Главная.png)
 
 
-[Ссылка на репозиторий:](https://github.com/KaterinaIrga/ono-tebe-nado)
+[Ссылка на репозиторий](https://github.com/KaterinaIrga/ono-tebe-nado)
