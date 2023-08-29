@@ -3,8 +3,8 @@
   grid-template-columns: 29% 1fr 12% 18%;
   grid-template-areas:
   "menu logo . contacts";
-  height: 109px;
-  margin: 92px 50px 104px;
+  margin: 92px 50px 92px;
   font-size: 18px;
+  line-height: 100%;
   color: #000;
 }

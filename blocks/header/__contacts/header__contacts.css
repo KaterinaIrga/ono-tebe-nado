@@ -1,5 +1,7 @@
 .header__contacts {
   grid-area: contacts;
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
+  font-style: normal;  
+  line-height: 24px;
 }

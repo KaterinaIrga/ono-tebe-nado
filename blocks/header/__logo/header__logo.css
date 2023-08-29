@@ -1,7 +1,7 @@
 .header__logo {
   grid-area: logo;
   margin: 0 0 4px;
-  width: 148px;
+  width: 138px;
   align-self: center;
   justify-self: center;
   display: block;
