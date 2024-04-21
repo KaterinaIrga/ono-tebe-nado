@@ -1,9 +1,9 @@
 .header {
   display: grid;
-  grid-template-columns: 29% 1fr 12% 18%;
+  grid-template-columns: 30% 1fr 12% 18%;
   grid-template-areas:
   "menu logo . contacts";
-  margin: 92px 50px 92px;
+  margin: 95px 50px 96px;  /* 92px 50px 92px; */
   font-size: 18px;
   line-height: 100%;
   color: #000;

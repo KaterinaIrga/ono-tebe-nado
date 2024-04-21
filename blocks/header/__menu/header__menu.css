@@ -1,7 +1,7 @@
 .header__menu {
   grid-area: menu;
   display: flex;
-  gap: 12px;
+  gap: 14px;
   align-items: center;
   color: #000;
 }
