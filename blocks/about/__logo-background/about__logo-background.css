@@ -5,5 +5,8 @@
   height: 240px;
   grid-column: 1;
   grid-row: 1;
-  margin: 0 95px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

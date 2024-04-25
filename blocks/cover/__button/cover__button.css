@@ -1,7 +1,7 @@
 .cover__button {
   min-width: 257px;
   height: 52px;
-  background: none;
+  background: transparent;
   color: #fff;
   margin: 135px 18px 0 0;
   padding: 12px 32px;

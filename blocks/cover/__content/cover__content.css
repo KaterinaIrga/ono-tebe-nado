@@ -1,8 +1,7 @@
 .cover__content {
   position: relative;
-  background-color: rgba(0,0,0, .6) ;
+  background-color: rgba(0, 0, 0, 0.6);
   min-height: 757px;
   color: #fff;
   text-transform: uppercase;
-  
 }

@@ -1,9 +1,5 @@
 .about__logo {
   display: block;
   width: 148px;
-  grid-column: 1;
-  grid-row: 1;
   z-index: 5;
-  justify-self: center;
-  margin: 62px auto 0;
 }

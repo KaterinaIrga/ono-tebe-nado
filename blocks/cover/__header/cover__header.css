@@ -1,0 +1,9 @@
+.cover__header {
+  margin: 0;
+  padding: 165px 50px 0;
+  display: grid;
+  grid-template: 115px 100px 100px / 220px 325px 100px 300px;
+  gap: 20px;
+  align-items: center;
+  justify-content: start;
+}

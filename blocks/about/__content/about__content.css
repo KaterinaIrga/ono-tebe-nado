@@ -1,7 +1,7 @@
 .about__content {
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  line-height: 23px;
+  gap: 25px;
+  line-height: 24px;
   font-size: 20px;
 }

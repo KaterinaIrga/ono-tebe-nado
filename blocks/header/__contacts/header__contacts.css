@@ -1,8 +1,6 @@
 .header__contacts {
-  grid-area: contacts;
-  display: flex;
-  margin-top: 5px;
-  flex-direction: column;
-  font-style: normal;  
+  font-style: normal;
   line-height: 24px;
+  font-weight: 400;
+  word-break: break-all;
 }

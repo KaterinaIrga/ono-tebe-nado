@@ -1,0 +1,6 @@
+.header__contacts-group {
+  grid-area: contacts;
+  display: flex;
+  margin-top: 5px;
+  flex-direction: column;
+}

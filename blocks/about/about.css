@@ -1,7 +1,7 @@
 .about {
-  margin: 180px 50px 0 50px ;
+  margin: 182px 24px 0;
   display: grid;
-  grid-template: repeat(2, auto) / auto 1fr;
+  grid-template: repeat(2, auto) / 31.5% 1fr;
   column-gap: 25px;
-  
+  justify-content: center;
 }
