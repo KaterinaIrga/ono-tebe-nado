@@ -31,20 +31,18 @@
           alt="логотип аукциона"
         />
       </a>
-      <address class="header__contacts-group">
+      <address class="contacts">
         <a
           href="tel:+99995555555"
-          class="header__contacts header__contacts_telephone"
         >
           +9 999 555 5555
         </a>
         <a
           href="mailtoinfo@sobaka.ge"
-          class="header__contacts header__contacts_email"
         >
           info@sobaka.ge
         </a>
-        <p class="header__contacts header__contacts_address">
+        <p class="contacts__address">
           наб. Принсенграхт 263-265, Амстердам
         </p>
       </address>
@@ -52,12 +50,23 @@
     <main class="main" id="main">
       <section class="cover">
         <div class="cover__content">
+          <div class="overlay"></div>
           <h1 class="cover__header">
-            <span class="cover__title cover__title_position_top">он</span>
-            <span class="cover__title cover__title_position_last">о</span>
-            <span class="cover__title cover__title_position_middle">теб</span>
-            <span class="cover__title cover__title_position_last">е</span>
-            <span class="cover__title cover__title_position_bottom">адо</span>
+            <span class="cover__title cover__title_position_top">
+              <span class="cover__title-row cover__title-row_space_small">о</span>
+              <span class="cover__title-row cover__title-row_space_medium">но</span>
+            </span>
+            <span class="cover__title cover__title_position_middle">
+              <span class="cover__title-row cover__title-row_space_small">те</span>
+              <span class="cover__title-row cover__title-row_space_medium">бе</span>
+            </span>
+            <span class="cover__title cover__title_position_bottom">
+              <span class="cover__title-row cover__title-row_space_medium">н</span>
+              <span class="cover__title-row cover__title-row_space_small">ад</span>
+              <span class="cover__title-row cover__title-row_space_base">о</span> 
+            </span>
+            
+            
           </h1>
           <div class="cover__bottom">
             <h2 class="cover__subline">
@@ -72,14 +81,9 @@
         <ul class="lots__gallery">
           <li class="lots__gallery-item">
             <a href="#">
-              <article class="card">
-                <img
-                  class="card__image"
-                  src="images/card-lot-01.jpg"
-                  loading="lazy"
-                  alt="Фильм режиссёра, который  бросил киношколу"
-                />
+              <article class="card card_type_film">
                 <div class="card__content">
+                  <div class="overlay"></div>
                   <h3 class="card__title">
                     Фильм режиссёра, который бросил киношколу
                   </h3>
@@ -94,14 +98,9 @@
           </li>
           <li class="lots__gallery-item">
             <a href="#">
-              <article class="card">
-                <img
-                  class="card__image"
-                  src="images/card-lot-02.jpg"
-                  loading="lazy"
-                  alt="Книга, где описан один скучный день из жизни рекламного агента"
-                />
+              <article class="card card_type_book">
                 <div class="card__content">
+                  <div class="overlay"></div>
                   <h3 class="card__title">
                     Книга, где описан один скучный день из жизни рекламного
                     агента
@@ -120,14 +119,9 @@
           </li>
           <li class="lots__gallery-item">
             <a href="#">
-              <article class="card">
-                <img
-                  class="card__image"
-                  src="images/card-lot-03.jpg"
-                  loading="lazy"
-                  alt="Картина, которую повторит даже 5-летний сын маминой подруги"
-                />
+              <article class="card card_type_picture">
                 <div class="card__content">
+                  <div class="overlay"></div>
                   <h3 class="card__title">
                     Картина, которую повторит даже 5-летний сын маминой подруги
                   </h3>
@@ -176,20 +170,14 @@
       </section>
     </main>
     <footer class="footer">
-      <address class="footer__contacts-group">
-        <a
-          href="tel:+99995555555"
-          class="footer__contacts footer__contacts_telephone"
-        >
-          +9 999 555 5555
-        </a>
+      <address class="contacts">
+        <a href="tel:+99995555555"> +9 999 555 5555 </a>
         <a
           href="mailtoinfo@sobaka.ge"
-          class="footer__contacts footer__contacts_email"
         >
           info@sobaka.ge
         </a>
-        <p class="footer__contacts footer__contacts_address">
+        <p class="contacts__address">
           наб. Принсенграхт 263-265, Амстердам
         </p>
       </address>
@@ -205,7 +193,7 @@
         <a class="footer__link">
           <img class="footer__socials-icon" src="images/vk.svg" alt="vk" />
         </a>
-        <a>
+        <a class="footer__link">
           <img
             class="footer__socials-icon"
             src="images/pinterest.svg"

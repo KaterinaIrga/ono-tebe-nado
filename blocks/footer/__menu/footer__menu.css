@@ -3,6 +3,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  align-self: start;
   font-size: 18px;
-  line-height: 110%;
+  line-height: 120%;
+  grid-area: menu;
 }

@@ -1,7 +1,0 @@
-.cover__title_last-letter {
-  letter-spacing: 0;
-}
-
-:not(.cover__title_need) > .cover__title_last-letter::before {
-  content: "\00a0 ";
-}

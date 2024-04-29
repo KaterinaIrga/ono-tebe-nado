@@ -1,33 +1,13 @@
 .cover__title_position_top {
-  grid-row: 1;
-  grid-column: 1;
+  text-align: start;
 }
 
 .cover__title_position_middle {
-  grid-row: 2;
-  grid-column: 2;
-  justify-self: end;
+  text-align: center;
+  line-height: 137%;
 }
 
 .cover__title_position_bottom {
-  grid-row: 3;
-  grid-column: 3 / -1;
-}
-
-.cover__title_position_bottom::before {
-  content: "н";
-  grid-row: 3;
-  grid-column: 3;
-  padding-inline-end: 25px;
-}
-
-.cover__title_position_top + .cover__title_position_last {
-  grid-row: 1;
-  grid-column: 2;
-}
-
-.cover__title_position_middle + .cover__title_position_last {
-  grid-row: 2;
-  grid-column: 3;
-  justify-self: center;
+  text-align: end;
+  line-height: 104%;
 }

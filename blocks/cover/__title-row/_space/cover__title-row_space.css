@@ -1,0 +1,11 @@
+.cover__title-row_space_small {
+letter-spacing: 30px;
+}
+
+.cover__title-row_space_medium {
+  letter-spacing: 60px;
+}
+
+.cover__title-row_space_base {
+  letter-spacing: initial;
+}

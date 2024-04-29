@@ -1,6 +1,6 @@
 .footer {
+  display: grid;
+  grid-template-columns: 24% 1fr 1fr 1fr 24%;
+  grid-template-areas: "contacts . menu . social";
   margin: 180px 50px 90px;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
 }

@@ -1,8 +1,6 @@
 .cover__title {
-  opacity: 1;
-  line-height: 100%;
+  display: block;
+  line-height: 115%;
   font-size: 100px;
-  font-weight: bold;
-  letter-spacing: 0.3em;
-  word-spacing: 0;
+  word-spacing: -0.5em;
 }
