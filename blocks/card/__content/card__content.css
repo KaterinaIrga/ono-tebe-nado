@@ -1,9 +1,0 @@
-.card__content {
-  padding: 50px 40px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
-  z-index: 1;
-  position: relative;
-}

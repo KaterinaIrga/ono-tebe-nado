@@ -1,13 +1,14 @@
 .cover__title_position_top {
-  text-align: start;
+  text-align: start;  
+  line-height: 115%;
 }
 
 .cover__title_position_middle {
   text-align: center;
-  line-height: 137%;
+  padding-block-start: 20px;
 }
 
 .cover__title_position_bottom {
   text-align: end;
-  line-height: 104%;
+  padding-block-start: 20px;
 }

@@ -1,9 +1,14 @@
 .card {
-  height: 563px;
+  min-height: 563px;
+  height: 100%;
+  padding: 50px 40px;
+  justify-content: space-between;
+  z-index: 1;
   display: flex;
   flex-direction: column;
-  gap: 30px;
   position: relative;
-  margin: 0;
   color: #fff;
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
 }
